@@ -3,7 +3,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 
-[Live project link](https://flight-fare-predictor-20t.herokuapp.com/) <br />
+[Live project link](https://flight-fare-prediction.up.railway.app/) <br />
 
 # Overview
 Basically, a Webapp that predicts prices of different different airlines for a chosen day. <br/>
